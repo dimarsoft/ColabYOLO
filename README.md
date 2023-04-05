@@ -35,3 +35,6 @@ https://drive.google.com/drive/folders/19aXhkW4sSnuGzw2LQNv4QDmZa1cvuDrr?usp=sha
 
 https://colab.research.google.com/drive/1gPusnV9qaHTlSn9LjPEzJh3CoAVE6Trc?usp=sharing
 
+https://blog.roboflow.com/polygonzone/
+
+
